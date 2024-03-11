@@ -5,7 +5,7 @@ export default function Container() {
     const redes = [
         {
             nome: "Github",
-            link: "https://github.com/BregueNice"
+            link: "https://github.com/breguenice3"
         },
         {
             nome: "Frontend Mentor",
