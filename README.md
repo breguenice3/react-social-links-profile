@@ -2,7 +2,8 @@
 
 ![Design preview for the portfolio](./socialLinks.jpg)
 
-## Esse projeto foi feito em React & Typescript para resolver o desafio do frontend mentor, contendo nele botões com sobreposição estilizada que dão acesso as minhas redes sociais.
+## Detalhes
+Esse projeto foi feito em React & Typescript para resolver o desafio do frontend mentor, contendo nele botões com sobreposição estilizada que dão acesso as minhas redes sociais.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
